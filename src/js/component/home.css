@@ -1,0 +1,43 @@
+#trafficlight{
+background: black;
+width: 200px;
+height: 550px;
+border-radius:30px;
+margin: 0  auto;
+margin-top: 10px;
+}
+
+
+
+.redLight{
+    background: red;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin: 20px;
+}
+
+.yellowLight{
+    background: yellow;
+     width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin: 20px;
+}
+
+
+
+.greenLight{
+    background: green;
+     width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin: 20px;
+}
+
+
+
+
+.active{
+ box-shadow: #f8ffcc 0px 0px 50px 20px;
+}
