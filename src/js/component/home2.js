@@ -29,7 +29,7 @@ export function Home() {
         default:
         break
 
-	});
+	};
 	const redLight = `red light ${trafficStatus.redLight}`;
 	const yellowLight = `yellow light ${trafficStatus.yellowLight}`;
 	const greenLight = `green light ${trafficStatus.greenLight}`;

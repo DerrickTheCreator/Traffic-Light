@@ -1,10 +1,11 @@
 #trafficlight{
 background: black;
-width: 200px;
+width: 230px;
 height: 550px;
 border-radius:30px;
 margin: 0  auto;
 margin-top: 10px;
+padding: 20px;
 }
 
 
